@@ -10,7 +10,7 @@ You need a working installation of python and pyusb.
 
 # Usage
 
-Start the script and push the front buttons, the will invoke the scripts in the scripts directory. As an example the scripts prvided will do the following:
+Start the script and push the front buttons, they will invoke the scripts in the scripts directory. As an example the scripts provided will do the following:
 - PDF: scan the whole page in 150 dpi to pdf format, the file will be saved in the lide-ez-buttons directory
 - Auto-scan: scan the whole page in 150 dpi to png format, the file will be saved in the lide-ez-buttons directory
 - Copy: prints a message indicating the script does nothing else
